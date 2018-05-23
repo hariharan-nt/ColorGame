@@ -1,0 +1,28 @@
+body{
+	background-color: #232323;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+#menu{
+	margin: 0px auto;
+	background: white;
+}
+
+.square{
+	width: 30%;
+	margin: 1.66%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float :left;
+	border-radius: 25%;
+	transition-duration: 1s;
+}
+
+#container{
+	max-width: 600px;
+	margin : 0 auto;
+}
